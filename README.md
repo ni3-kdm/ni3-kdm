@@ -19,6 +19,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni3-kdm&layout=compact&hide=html" alt="ni3-kdm" /></p>
 
+<br/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ni3-kdm&show_icons=true" alt="ni3-kdm" /></p>
 
 
