@@ -3,18 +3,19 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nitinkadam213?label=Nitinkadam213&logo=twitter&style=for-the-badge)
 
-- 🌱 Currently Learning **Flutter, Node.js, React.JS**
-
-- 👯 Love contributing, reviewing and helping other contributors.
-
-### Connect with me:
-
-<a href="https://twitter.com/nitinkadam213" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nitinkadam213" height="22" width="22" /></a>
-<a href="https://github.com/ni3-kdm" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ni3-kdm" height="22" width="22" /></a>
+- **🔭full stack developer.**
+- **⚡focusing on Learning **Flutter, Node.js, React.JS**
+- **💻working in Pune, India.**
+- **👯 Love contributing, reviewing and helping other contributors.**
 
 ### Languages and Tools:
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> </p>
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni3-kdm&layout=compact&hide=html" alt="ni3-kdm" /></p>
 
