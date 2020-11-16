@@ -10,7 +10,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/nitinkadam213" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nitinkadam213" height="22" width="22" /></a>
-<a href="https://github.com/ni3-kdm" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nitinkadam" height="22" width="22" /></a>
+<a href="https://github.com/ni3-kdm" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ni3-kdm" height="22" width="22" /></a>
 
 <br />
 
@@ -18,6 +18,8 @@
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni3-kdm&layout=compact&hide=html" alt="nitinkadam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni3-kdm&layout=compact&hide=html" alt="ni3-kdm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ni3-kdm&show_icons=true" alt="nitinkadam" /></p>
+<br />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ni3-kdm&show_icons=true" alt="ni3-kdm" /></p>
