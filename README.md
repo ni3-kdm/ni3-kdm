@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/nitinkadam213?label=Nitinkadam213&logo=twitter&style=for-the-badge)
 
 - **🔭full stack developer.**
-- **⚡focusing on Learning Flutter, Node.js, React.JS**
+- **⚡focusing on Learning Flutter, Node.js, React.JS.**
 - **💻working in Pune, India.**
 - **👯 Love contributing, reviewing and helping other contributors.**
 
