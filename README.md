@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nitinkadam213?label=Nitinkadam213&logo=twitter&style=for-the-badge)
 
-- 🌱 Currently Learning **Flutter, SwiftUI**
+- 🌱 Currently Learning **Flutter, Node.js, React.JS**
 
 - 👯 Love contributing, reviewing and helping other contributors.
 
