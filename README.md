@@ -16,7 +16,6 @@
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- **⚡focusing on Learning Flutter, Node.js, React.JS.**
 - **👯 Love contributing, reviewing and helping other contributors.**
 
 ### ⚡ Languages, Tools and Technologies:
