@@ -5,14 +5,14 @@
 
 - **🔭Full stack developer.**
 - **💻 Working in Pune, India.**
-- 🚀 I use daily:
+- **🚀 I use daily:**
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 🌱 Learning all about:
+- **🌱 Learning all about:**
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
@@ -20,9 +20,6 @@
 - **👯 Love contributing, reviewing and helping other contributors.**
 
 ### ⚡ Languages, Tools and Technologies:
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> </p>
-
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
